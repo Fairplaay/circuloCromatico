@@ -1,7 +1,6 @@
-# Colores hsl
-##colors hsl
-proyecto estatico reactJS
-mini-draft static reactJS
+# Colores hsl/colors hsl
+##
+  proyecto estatico reactJS/mini-draft static reactJS
 ##
   > git clone git@github.com:Fairplaay/circuloCromatico.git
 ## 
